@@ -1,10 +1,10 @@
 {
-  "name": "react-alert",
+  "name": "@getstation/react-alert",
   "description": "A simple react alert component",
   "version": "7.1.0",
   "author": "Reinaldo Schiehll <rn.schiehll@gmail.com>",
-  "main": "dist/cjs/react-alert.js",
-  "module": "dist/esm/react-alert.js",
+  "main": "dist/cjs/@getstation/react-alert.js",
+  "module": "dist/esm/@getstation/react-alert.js",
   "license": "MIT",
   "repository": {
     "type": "git",
